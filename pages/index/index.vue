@@ -71,6 +71,11 @@
 						url: "/pages/analytics/analytics",
 						text: "经营统计"
 					}, {
+						id: 11,
+						icon: 'icon-guazhangmingxibiao',
+						url: "/pages/appointment/board",
+						text: "预约排班"
+					}, {
 						id: 5,
 						icon: 'icon-huiyuanchaxun',
 						url: "/pages/member/list",
