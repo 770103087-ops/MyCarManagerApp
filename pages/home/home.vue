@@ -75,6 +75,11 @@
 					icon: 'icon-baoxian1',
 					url: "pages/index/billing/billingDetail/billingDetail",
 					text: "保险到期"
+				}, {
+					id: 9,
+					icon: 'icon-guazhangmingxibiao',
+					url: "/pages/appointment/board",
+					text: "预约排班"
 				}]
 			}
 		},
