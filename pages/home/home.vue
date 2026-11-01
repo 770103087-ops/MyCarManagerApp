@@ -63,23 +63,28 @@
 				}, {
 					id: 5,
 					icon: 'icon-huiyuanchaxun',
-					url: "./orderList/orderList",
+					url: "/pages/member/list",
 					text: "客户快查"
 				}, {
 					id: 6,
 					icon: 'icon-huiyuan',
-					url: "pages/index/orderList/orderList",
+					url: "/pages/member/add",
 					text: "会员开卡"
 				}, {
 					id: 7,
 					icon: 'icon-huiyuanchongzhi',
-					url: "pages/index/billing/billingDetail/billingDetail",
+					url: "/pages/member/list?action=recharge",
 					text: "会员充值"
 				}, {
 					id: 8,
 					icon: 'icon-baoxian1',
 					url: "pages/index/billing/billingDetail/billingDetail",
 					text: "保险到期"
+				}, {
+					id: 9,
+					icon: 'icon-guazhangmingxibiao',
+					url: "/pages/appointment/board",
+					text: "预约排班"
 				}]
 			}
 		},

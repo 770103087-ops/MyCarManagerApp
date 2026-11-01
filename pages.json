@@ -61,6 +61,41 @@
 			}
 		},
 		{
+			"path": "pages/member/list",
+			"style": {
+				"navigationBarTitleText": "会员列表",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/member/add",
+			"style": {
+				"navigationBarTitleText": "会员开卡",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/member/detail",
+			"style": {
+				"navigationBarTitleText": "会员详情",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/member/recharge",
+			"style": {
+				"navigationBarTitleText": "会员充值",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/member/transactions",
+			"style": {
+				"navigationBarTitleText": "会员流水",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
 			"path": "pages/forms/forms",
 			"style": {
 				"navigationBarTitleText": "报表"
@@ -164,6 +199,27 @@
 			"style": {
 				"navigationBarTitleText": "经营统计",
 				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/appointment/board",
+			"style": {
+				"navigationBarTitleText": "预约排班",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/appointment/edit",
+			"style": {
+				"navigationBarTitleText": "预约登记",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/appointment/detail",
+			"style": {
+				"navigationBarTitleText": "预约详情",
+				"enablePullDownRefresh": false
 			}
 		}
 	],
